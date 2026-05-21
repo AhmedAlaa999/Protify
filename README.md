@@ -1,6 +1,6 @@
 # Portify 
 
-**Portify** is a simple and clean portfolio generator that lets you build your own personal portfolio page in seconds — no coding required, no sign-up, nothing to install.
+**Portify** is a simple and clean portfolio generator that lets you build your own personal portfolio page in seconds , no coding required, no sign-up, nothing to install.
 
 ## Live Demo
 
@@ -8,10 +8,10 @@
 
 ## How it works
 
-1. Enter your personal info (name, title, bio)
+1. Enter your personal info such as name or bio like that
 2. Add your projects
-3. Hit **Generate Portfolio**
-4. Done — your portfolio is ready instantly
+3. Hit Generate Portfolio
+4. Done, your portfolio is ready instantly
 
 ## Built With
 
