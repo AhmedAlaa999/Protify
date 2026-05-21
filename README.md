@@ -11,7 +11,7 @@ Just fill in your name, role, bio, skills, and projects — and Portify instantl
 ## How it works
 
 1. Enter your personal info (name, title, bio)
-2. Add your skills and projects
+2. Add your projects
 3. Hit **Generate Portfolio**
 4. Done — your portfolio is ready instantly
 
