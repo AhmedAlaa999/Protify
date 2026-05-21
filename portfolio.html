@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portify</title>
+    <link rel="stylesheet" href="Portify2.css">
+    <link rel="icon" type="image/png"  href="FaviconLogo.svg">
+</head>
+<body>
+
+    <nav class="navbar">
+
+        <div class="nav-logo">Portify</div>
+
+        <button class="hamburger" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+
+        <ul class="nav-links" id="nav-links">
+        </ul>
+    </nav>
+<section class="hero">
+<h1 id="name"></h1>
+<h2 id="role"></h2>
+<p id="bio"></p>
+    <button>view projects</button>
+</section>
+<div class="blur"></div>
+<section class="projects">
+    <h1 style="color: rgb(119, 119, 119);">Projects</h1>
+    <div class="cards">
+        <div class="card">
+            <h2 style="color: white;" id="project1"></h2>
+            <p id="project1desc">A weather application that provides real-time forecasts and historical data.</p>
+        </div>
+        <div class="card">
+            <h2 style="color: white;" id="project2"></h2>
+            <p id="project2desc">A task management application that helps users organize their daily activities efficiently.</p>
+        </div>
+    </div>
+</section>
+</body>
+<feet>
+    <hr>
+    © 2026 portify. All rights reserved.
+</feet>
+<script src="portfolio.js"></script>
+</html>

@@ -1,0 +1,87 @@
+body{
+    background:
+    linear-gradient(
+        #bdbdbd,
+        #8d8d8d
+    );
+
+    min-height:100vh;
+    margin:0;
+    overflow-x:hidden;
+}
+form {
+  margin: 50px auto;
+  padding: 20px;
+  width: 500px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input[type="text"], input[type="password"] {
+  width: 90%;
+    padding: 10px;
+}
+input[type="text"]::placeholder, input[type="password"]::placeholder {
+  color: #999999;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+
+  width: 90%;
+  padding: 12px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  font-size: 15px;
+  transition: 0.3s;
+}
+button {
+  background-color: #cb99f3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ff0000;
+}
+#Role{
+    font-size: 15px;
+    margin-left: -359px;
+}
+#FirstNames{
+    margin-left: -394px;
+}
+#LastName{
+    margin-left: -396px;
+}
+#Role{
+    margin-left: -378px;
+}
+#ShortBio{
+    margin-left: -398px;
+}
+#Project1Name{
+    margin-left: -359px;
+}
+#Project1Description{
+    margin-left: -330px;
+}
+#Project2Name{
+    margin-left: -359px;
+}
+#Project2Description{
+    margin-left: -330px;
+}
+#h1{
+    text-shadow: 3px 3px 5px rgb(158, 71, 240);
+}
+button{
+    transition: 0.3s;
+}
+button:hover{
+    transform: scale(1.05);
+}
