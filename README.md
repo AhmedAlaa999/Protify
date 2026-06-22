@@ -1,7 +1,11 @@
 # Portify 
 
 **Portify** is a simple and clean portfolio generator that lets you build your own personal portfolio page in seconds , no coding required, no sign-up, nothing to install.
+# Things Faced me
+Connect the javascript with html to get the result on the 2nd page
+the style of the webpage and the glassy theme
 
+# Why 
 ## Live Demo
 
  [https://ahmedalaa999.github.io/Protify/](https://ahmedalaa999.github.io/Protify/)
