@@ -6,6 +6,9 @@
 
  [https://ahmedalaa999.github.io/Protify/](https://ahmedalaa999.github.io/Protify/)
 
+# Photo
+<img width="1295" height="623" alt="image" src="https://github.com/user-attachments/assets/5822f071-f581-4acc-9b2c-1a5e5ee01704" />
+
 ## How it works
 
 1. Enter your personal info such as name or bio like that
