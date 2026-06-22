@@ -5,7 +5,17 @@
 Connect the javascript with html to get the result on the 2nd page
 the style of the webpage and the glassy theme
 
-# Why 
+# Why you should choose the Protify to make you simple protofolio maker
+Portify is designed for people who want a professional portfolio without spending hours coding or designing. With a simple and user-friendly interface, you can create your portfolio in just a few clicks.
+
+# Why Portify?
+- Fast and easy to use
+- Modern glass design
+- No coding knowledge required
+- Generates your portfolio instantly
+- Completely free to use
+- Lightweight and built with pure HTML, CSS, and JavaScript
+
 ## Live Demo
 
  [https://ahmedalaa999.github.io/Protify/](https://ahmedalaa999.github.io/Protify/)
